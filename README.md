@@ -60,50 +60,50 @@
   ## Tests
   f
   
-  ## Questions
+ 
  
   [My GitHub Profile](https://github.com/t)
   
   If you need to reach me you can do so by sending an email to r
   
-  # attila a legjobb
+# title
     
   ## Description
-  description
+  desc
       
-  ![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
+  
   ## Table of Contents
   [Installation](#Installation)
 
-  [Usage] (#Usage)
+  [Usage](#Usage)
 
-  [License] (#License)
+  [License](#License)
 
-  [Constributing] (#Contributing)
+  [Constributing](#Contributing)
 
-  [Tests] (#Tests)
+  [Tests](#Tests)
 
-  [Questions] (#Questions)
+  [Questions](#Questions)
 
 
   ## Installation
-  npm install
+  install
   
   ## Usage
-  use
+  use it
   
   ## License
-  Licensed under the [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0) license.
+  Licensed under the  license.
   
   ## Contributing
-  g
+  write code
   
   ## Tests
-  g
+  in progress
   
   ## Questions
-  [My GitHub Profile](https://github.com/ati)
+  [My GitHub Profile](https://github.com/username)
   
-  If you need to reach me you can do so by sending an email to ati@kiraly.com
+  If you need to reach me you can do so by sending an email to email@mail.com
   
   
