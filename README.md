@@ -27,9 +27,9 @@
   
   ## Usage
   r
-  ewrew
-  were
-  wer
+  ewrew\n
+  were\n
+  wer\n
   wr
   w
   wer
@@ -61,7 +61,7 @@
   f
   
   ## Questions
-  <a name="Questions"></a>
+ 
   [My GitHub Profile](https://github.com/t)
   
   If you need to reach me you can do so by sending an email to r
