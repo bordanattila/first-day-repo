@@ -15,8 +15,8 @@
       
   ![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
   ## Table of Contents
-  [e] #(e)
-  <a name="e"></a>
+ 
+  
   [Questions] #(Questions)
   
   ## Installation
