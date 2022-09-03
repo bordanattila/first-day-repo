@@ -66,3 +66,39 @@
   
   If you need to reach me you can do so by sending an email to r
   
+  # test
+    
+  ## Description
+  readme generator
+      
+  ![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
+  ## Table of Contents
+  [Installation] (#Installation)
+  [Usage] (#Usage)
+  [License] (#License)
+  [Constributing] (#Contributing)
+  [Tests] (#Tests)
+  [Questions] (#Questions)
+  
+  ## Installation
+  npm install
+  
+  ## Usage
+  use it
+  
+  ## License
+  Licensed under the [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0) license.
+  
+  ## Contributing
+  write code
+  
+  ## Tests
+  in progress
+  
+  ## Questions
+  [My GitHub Profile](https://github.com/attila)
+  
+  If you need to reach me you can do so by sending an email to attila@mail.com
+  
+  
+  
